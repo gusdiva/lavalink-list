@@ -193,7 +193,7 @@ Secure : false
 ```
 Hosted by @ [K E N D O#7261](https://hyembot.site/)
 ```bash
-Host : lavalink.hyembot.site
+Host : newlavalink.hyembot.site
 Port: 80
 Password : "kendoxhyem"
 Secure : false
